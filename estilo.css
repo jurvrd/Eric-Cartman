@@ -1,9 +1,10 @@
 body{
     background-color: lightblue;
     color : lightyellow;
+    font-family: 'Acme', sans-serif;
     
 }
 p{
     color :red
-    font-size  :20px
+    font-size 20px
 }
