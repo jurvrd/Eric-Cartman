@@ -1,6 +1,6 @@
 body{
     background-color: lightblue;
-    color : rgba(252, 252, 8, 0.678);
+    color : rgb(252, 252, 8);
     font-family: 'Acme', sans-serif;    
 }
 p{
