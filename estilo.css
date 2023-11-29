@@ -5,16 +5,16 @@ body{
 }
 p{
     color :red
-    font-size 40px
+    font-size 90px
 }
 #titulo{
     color: red;
-    font-size: 50px;
+    font-size: 100px;
 }
 #personalidades{
     color: red;
-    font-size: 50px;
+    font-size: 100px;
 }
  #eric{
-    width: 100%;
+    width: 90%;
  }
