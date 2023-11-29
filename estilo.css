@@ -2,19 +2,19 @@ body{
     background-color: lightblue;
     color : rgb(252, 252, 8);
     font-family: 'Acme', sans-serif;    
-    font-size: 50px;
+    font-size: 40px;
 }
 p{
     color :red
-    font-size 100px;
+    font-size 80px;
 }
 #titulo{
     color: red;
-    font-size: 100px;
+    font-size: 80px;
 }
 #personalidades{
     color: red;
-    font-size: 100px;
+    font-size: 80px;
 }
  #eric{
     width: 90%;
